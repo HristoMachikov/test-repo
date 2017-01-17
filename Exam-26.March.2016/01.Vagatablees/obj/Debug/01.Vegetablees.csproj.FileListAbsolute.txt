@@ -1,0 +1,6 @@
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\bin\Debug\01.Vagatablees.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\bin\Debug\01.Vagatablees.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\bin\Debug\01.Vagatablees.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\obj\Debug\01.Vegetablees.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\obj\Debug\01.Vagatablees.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\01.Vagatablees\obj\Debug\01.Vagatablees.pdb
