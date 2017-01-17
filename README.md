@@ -1,5 +1,4 @@
 # test-repo
 SecondTestRepo
 
-This is now my test repo :)
-No, this is now my test repo :) :)
+This is now my test repo ;DDD
