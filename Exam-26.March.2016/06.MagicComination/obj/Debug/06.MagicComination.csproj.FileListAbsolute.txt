@@ -1,0 +1,6 @@
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\bin\Debug\06.MagicComination.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\bin\Debug\06.MagicComination.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\bin\Debug\06.MagicComination.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\obj\Debug\06.MagicComination.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\obj\Debug\06.MagicComination.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\06.MagicComination\obj\Debug\06.MagicComination.pdb

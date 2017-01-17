@@ -1,0 +1,5 @@
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\05.Buterfly\bin\Debug\05.Buterfly.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\05.Buterfly\bin\Debug\05.Buterfly.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\05.Buterfly\bin\Debug\05.Buterfly.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\05.Buterfly\obj\Debug\05.Buterfly.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\05.Buterfly\obj\Debug\05.Buterfly.pdb

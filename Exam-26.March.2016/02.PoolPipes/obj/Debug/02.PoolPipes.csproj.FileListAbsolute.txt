@@ -1,0 +1,6 @@
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\bin\Debug\02.PoolPipes.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\bin\Debug\02.PoolPipes.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\bin\Debug\02.PoolPipes.pdb
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\obj\Debug\02.PoolPipes.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\obj\Debug\02.PoolPipes.exe
+c:\users\computer\documents\visual studio 2015\Projects\Exam-26.March.2016\02.PoolPipes\obj\Debug\02.PoolPipes.pdb
