@@ -1,11 +1,10 @@
 Testing text files
 Testing text files......
 
-<<<<<<< HEAD
+
 Trying out gitbash ^^ 
 And again and again
-=======
+
 Trying out gitbash ^^
 
 My new changes 
->>>>>>> ec77d3d76f6c7868dddee564fa980f839e826f0a
