@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Testing text files :)
-=======
 Testing text files......
->>>>>>> 081a54f10a8381b14b1ef0bf2d6f2b881964fa68
