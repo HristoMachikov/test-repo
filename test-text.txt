@@ -1,6 +1,10 @@
 Testing text files
 Testing text files......
 
+
+Trying out gitbash ^^ 
+And again and again
+
 Trying out gitbash ^^
 
 My new changes 
